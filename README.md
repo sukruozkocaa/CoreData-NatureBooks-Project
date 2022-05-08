@@ -1,16 +1,15 @@
 # CoreData NatureBooks Project
 
+<img width="245" alt="Ekran Resmi 2022-05-09 01 20 52" src="https://user-images.githubusercontent.com/85077754/167318564-d89d4683-e659-4c05-92cd-86faf1179923.png">
 
-![Simulator Screen Shot - iPhone 11 - 2022-05-09 at 01 25 42](https://user-images.githubusercontent.com/85077754/167318366-7faab749-f67a-4a3f-9e79-ae44965e0a4f.png)
 
 Launch Screen
 
 
 
 
+<img width="431" alt="Ekran Resmi 2022-05-09 01 37 09" src="https://user-images.githubusercontent.com/85077754/167318634-cba9c4e1-a748-4986-a01b-074ea98f4393.png">
 
-
-![Simulator Screen Shot - iPhone 11 - 2022-05-09 at 01 31 38](https://user-images.githubusercontent.com/85077754/167318439-f645a824-9151-4008-abd2-b8cb12d1ef2c.png)
 
 Main TableView Screen
 
@@ -19,7 +18,8 @@ Main TableView Screen
 
 
 
-![Simulator Screen Shot - iPhone 11 - 2022-05-09 at 01 32 40](https://user-images.githubusercontent.com/85077754/167318482-007dda0d-eb51-473a-9156-b07c8b21dd11.png)
+<img width="431" alt="Ekran Resmi 2022-05-09 01 37 45" src="https://user-images.githubusercontent.com/85077754/167318655-041cc857-f534-4e9f-9b3e-1a0e8e8b93e0.png">
+
 
 Core Data ADD
 
@@ -28,7 +28,8 @@ Core Data ADD
 
 
 
-![Simulator Screen Shot - iPhone 11 - 2022-05-09 at 01 33 34](https://user-images.githubusercontent.com/85077754/167318510-41bb2fd1-8bfb-4275-822a-d64b97178cc7.png)
+<img width="431" alt="Ekran Resmi 2022-05-09 01 38 00" src="https://user-images.githubusercontent.com/85077754/167318658-924822a2-780a-4230-b091-39dd8ac7529d.png">
+
 
 Core Data Filter and Transfer
 
